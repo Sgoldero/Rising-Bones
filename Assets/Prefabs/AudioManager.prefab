@@ -1,0 +1,294 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1485215423247626}
+  m_IsPrefabAsset: 1
+--- !u!1 &1485215423247626
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4401666406299188}
+  - component: {fileID: 114756074962436480}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4401666406299188
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1485215423247626}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.9531367, y: -19.674473, z: 0.5107756}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114756074962436480
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1485215423247626}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d22ee9022e3233342a2636e176c57eed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Bow
+    clip: {fileID: 8300000, guid: aa82a148e0ba6db4fa8e91abf76fb3bb, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: SwordSwing
+    clip: {fileID: 8300000, guid: 0dd71fd2f1f8a9d49b3916b202c2750b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: SwordHitNormal
+    clip: {fileID: 8300000, guid: 920355ea3bc396d418ec7aaf02c10e54, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: SwordHitHard
+    clip: {fileID: 8300000, guid: d51a2b558cd61f6409e30598632ee613, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: GeneralWalking
+    clip: {fileID: 8300000, guid: 882fede27936640449acd645a2e4acae, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: OpenObject
+    clip: {fileID: 8300000, guid: f67a0b2a466098c458863bf8d903dd27, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: EyeDeath
+    clip: {fileID: 8300000, guid: 9a49c28be12c1c6429c40adaab87fcea, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: EyeHurt
+    clip: {fileID: 8300000, guid: 57be1ce04182bb5469fd46b62c278371, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Explosion
+    clip: {fileID: 8300000, guid: 40d68c58c8f69da4b879401b169ec142, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Spell
+    clip: {fileID: 8300000, guid: 45a01b54d7fe9a247be5db771dce2750, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: EyeWiggle
+    clip: {fileID: 8300000, guid: 6759044a03665454c914b5785354fd61, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: PlayerDeath
+    clip: {fileID: 8300000, guid: 7f478f36f7d7222488de565c20b52bec, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: GoblinChase
+    clip: {fileID: 8300000, guid: 98d5039ec06d2cf4ebacd7a6d7d750d1, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: GoblinAttack1
+    clip: {fileID: 8300000, guid: b00d332a632c1134c84a409072d90023, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: GoblinAttack2
+    clip: {fileID: 8300000, guid: ff8e40461bf89954ab5c2635c92573b0, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: GoblinHitted
+    clip: {fileID: 8300000, guid: 4844b3754104af746a92ad2c087298d1, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: GoblinDeath
+    clip: {fileID: 8300000, guid: 7e256e45a80e2c249849b5de96997072, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfChase
+    clip: {fileID: 8300000, guid: da70b3c2387c007429b5cdd689ffe606, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfHowl
+    clip: {fileID: 8300000, guid: 668add62210670d4899585dd9c97b217, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfHitted
+    clip: {fileID: 8300000, guid: fb4fb31d073fe4e4ba57bf98d7ae3cac, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfDeath
+    clip: {fileID: 8300000, guid: 7308d9326c0c7844bbf0bbea0d817514, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: PlayerDeath
+    clip: {fileID: 8300000, guid: 7f478f36f7d7222488de565c20b52bec, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WolfAttack
+    clip: {fileID: 8300000, guid: b58671ff8dbf0814fb92f2df7ce50c97, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}

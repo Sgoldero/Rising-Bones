@@ -1,0 +1,956 @@
+fileFormatVersion: 2
+guid: 8879172ce92384d4d82fc03a1a680d44
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: misc_scenery_0
+    21300002: misc_scenery_1
+    21300004: misc_scenery_2
+    21300006: misc_scenery_3
+    21300008: misc_scenery_4
+    21300010: misc_scenery_5
+    21300012: misc_scenery_6
+    21300014: misc_scenery_7
+    21300016: misc_scenery_8
+    21300018: misc_scenery_9
+    21300020: misc_scenery_10
+    21300022: misc_scenery_11
+    21300024: misc_scenery_12
+    21300026: misc_scenery_13
+    21300028: misc_scenery_14
+    21300030: misc_scenery_15
+    21300032: misc_scenery_16
+    21300034: misc_scenery_17
+    21300036: misc_scenery_18
+    21300038: misc_scenery_19
+    21300040: misc_scenery_20
+    21300042: misc_scenery_21
+    21300044: misc_scenery_22
+    21300046: misc_scenery_23
+    21300048: misc_scenery_24
+    21300050: misc_scenery_25
+    21300052: misc_scenery_26
+    21300054: misc_scenery_27
+    21300056: misc_scenery_28
+    21300058: misc_scenery_29
+    21300060: misc_scenery_30
+    21300062: misc_scenery_31
+    21300064: misc_scenery_32
+    21300066: misc_scenery_33
+    21300068: misc_scenery_34
+    21300070: misc_scenery_35
+    21300072: misc_scenery_36
+    21300074: misc_scenery_37
+    21300076: misc_scenery_38
+    21300078: misc_scenery_39
+    21300080: misc_scenery_40
+    21300082: misc_scenery_41
+    21300084: misc_scenery_42
+    21300086: misc_scenery_43
+    21300088: misc_scenery_44
+    21300090: misc_scenery_45
+    21300092: misc_scenery_46
+    21300094: misc_scenery_47
+    21300096: misc_scenery_48
+    21300098: misc_scenery_49
+    21300100: misc_scenery_50
+    21300102: misc_scenery_51
+    21300104: misc_scenery_52
+    21300106: misc_scenery_53
+    21300108: misc_scenery_54
+    21300110: misc_scenery_55
+    21300112: misc_scenery_56
+    21300114: misc_scenery_57
+    21300116: misc_scenery_58
+    21300118: misc_scenery_59
+    21300120: misc_scenery_60
+    21300122: misc_scenery_61
+    21300124: misc_scenery_62
+    21300126: misc_scenery_63
+    21300128: misc_scenery_64
+    21300130: misc_scenery_65
+    21300132: misc_scenery_66
+    21300134: misc_scenery_67
+    21300136: misc_scenery_68
+    21300138: misc_scenery_69
+    21300140: misc_scenery_70
+    21300142: misc_scenery_71
+    21300144: misc_scenery_72
+    21300146: misc_scenery_73
+    21300148: misc_scenery_74
+    21300150: misc_scenery_75
+    21300152: misc_scenery_76
+    21300154: misc_scenery_77
+    21300156: misc_scenery_78
+    21300158: misc_scenery_79
+    21300160: misc_scenery_80
+    21300162: misc_scenery_81
+    21300164: misc_scenery_82
+    21300166: misc_scenery_83
+    21300168: misc_scenery_84
+    21300170: misc_scenery_85
+    21300172: misc_scenery_86
+    21300174: misc_scenery_87
+    21300176: misc_scenery_88
+    21300178: misc_scenery_89
+    21300180: misc_scenery_90
+    21300182: misc_scenery_91
+    21300184: misc_scenery_92
+    21300186: misc_scenery_93
+    21300188: misc_scenery_94
+    21300190: misc_scenery_95
+    21300192: misc_scenery_96
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: misc_scenery_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 93
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344c1bc21fd2d574eaaa309593825889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 77
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a95dc374417ad843aaf61cc155f5e06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 17
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfbdf61d1dcdd64d9fc5ce0d51625f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 123
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea923a335fd0654394e0b5ff2f56aea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 126
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82d61eef5067694b831ec644306b10c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 119
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857435e16eca0b14ab429a93dd874314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 114
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20e13c896ee2f34690b5113ab9ae5a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 90
+        width: 5
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82929cbd03e36d84daf5b5e8a20d2959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 90
+        width: 5
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b889495f58c0994aac193e0f755d855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 90
+        width: 11
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594dc5c2f6d38a449878327938d0505c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81219b02bbb5a3d46af85fee7b616392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25f03c0e26efe2488fafe7de167ac0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c395b18030b0ca4dbc695e22a8637ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 93
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4f0e78f6fc6874194403b8d4cc128e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ed3567a0f2b3144933737ffb996962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 76
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac22ca73703a7346b5aa3f89d8f0336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 83
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68e9667529decb4dacbf93b260614cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 82
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094d9f4c7ddf57640bbe0444f07b7033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 49
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc171f10242fa0745a6c3a52bc70258e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 67
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a9385d1549ed640a653c6208f45964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 54
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e7542fd63e34d49b7be0d00541db3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 54
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc75c2008ac076c45822e715f2f5e293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 54
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd46ac53afaa0be46a093770bb5ba277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 54
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4917134d0365534d9e3aa3a8879914a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 36
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8cca6fee0debb408c8bf606a4a34ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 50
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94395972ddd4a3b4787d8a15366e8a3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eafafa14095df419f9b876bc84b16c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 31
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a5ff2d7db39324094ab2e7defd4355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 31
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8c66a2d490fdd4d944af5be63cd7ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_29
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 33
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d897fa75f9a59ba4281cb7c64d65b10c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 33
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f88f2f1472992c46852c9be21026b21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_31
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 9
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ab89b7f1b86304d9784e892a7b2ba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 11
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cdaa3a8a0291f4cb25467871c0dd49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 11
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3445fe7f1188d1343b96ea9559bc98cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_34
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 10
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cce4fd3d2a7b4458735351e56e85b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7090e8cc8106124b84d394290f20c57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 9
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba6d9a7e5e57b545b6b9b534fd60f8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc_scenery_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 8
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f164ee4b073534fa8a75fcb4a54427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2f4cd801f51481a4f9a2ac242803cd39
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

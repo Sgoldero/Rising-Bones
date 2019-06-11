@@ -1,0 +1,3837 @@
+fileFormatVersion: 2
+guid: c5593e21867330b4eaa653fb971d14bc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lpcfemaleplatehelmet_0
+    21300002: lpcfemaleplatehelmet_1
+    21300004: lpcfemaleplatehelmet_2
+    21300006: lpcfemaleplatehelmet_3
+    21300008: lpcfemaleplatehelmet_4
+    21300010: lpcfemaleplatehelmet_5
+    21300012: lpcfemaleplatehelmet_6
+    21300014: lpcfemaleplatehelmet_7
+    21300016: lpcfemaleplatehelmet_8
+    21300018: lpcfemaleplatehelmet_9
+    21300020: lpcfemaleplatehelmet_10
+    21300022: lpcfemaleplatehelmet_11
+    21300024: lpcfemaleplatehelmet_12
+    21300026: lpcfemaleplatehelmet_13
+    21300028: lpcfemaleplatehelmet_14
+    21300030: lpcfemaleplatehelmet_15
+    21300032: lpcfemaleplatehelmet_16
+    21300034: lpcfemaleplatehelmet_17
+    21300036: lpcfemaleplatehelmet_18
+    21300038: lpcfemaleplatehelmet_19
+    21300040: lpcfemaleplatehelmet_20
+    21300042: lpcfemaleplatehelmet_21
+    21300044: lpcfemaleplatehelmet_22
+    21300046: lpcfemaleplatehelmet_23
+    21300048: lpcfemaleplatehelmet_24
+    21300050: lpcfemaleplatehelmet_25
+    21300052: lpcfemaleplatehelmet_26
+    21300054: lpcfemaleplatehelmet_27
+    21300056: lpcfemaleplatehelmet_28
+    21300058: lpcfemaleplatehelmet_29
+    21300060: lpcfemaleplatehelmet_30
+    21300062: lpcfemaleplatehelmet_31
+    21300064: lpcfemaleplatehelmet_32
+    21300066: lpcfemaleplatehelmet_33
+    21300068: lpcfemaleplatehelmet_34
+    21300070: lpcfemaleplatehelmet_35
+    21300072: lpcfemaleplatehelmet_36
+    21300074: lpcfemaleplatehelmet_37
+    21300076: lpcfemaleplatehelmet_38
+    21300078: lpcfemaleplatehelmet_39
+    21300080: lpcfemaleplatehelmet_40
+    21300082: lpcfemaleplatehelmet_41
+    21300084: lpcfemaleplatehelmet_42
+    21300086: lpcfemaleplatehelmet_43
+    21300088: lpcfemaleplatehelmet_44
+    21300090: lpcfemaleplatehelmet_45
+    21300092: lpcfemaleplatehelmet_46
+    21300094: lpcfemaleplatehelmet_47
+    21300096: lpcfemaleplatehelmet_48
+    21300098: lpcfemaleplatehelmet_49
+    21300100: lpcfemaleplatehelmet_50
+    21300102: lpcfemaleplatehelmet_51
+    21300104: lpcfemaleplatehelmet_52
+    21300106: lpcfemaleplatehelmet_53
+    21300108: lpcfemaleplatehelmet_54
+    21300110: lpcfemaleplatehelmet_55
+    21300112: lpcfemaleplatehelmet_56
+    21300114: lpcfemaleplatehelmet_57
+    21300116: lpcfemaleplatehelmet_58
+    21300118: lpcfemaleplatehelmet_59
+    21300120: lpcfemaleplatehelmet_60
+    21300122: lpcfemaleplatehelmet_61
+    21300124: lpcfemaleplatehelmet_62
+    21300126: lpcfemaleplatehelmet_63
+    21300128: lpcfemaleplatehelmet_64
+    21300130: lpcfemaleplatehelmet_65
+    21300132: lpcfemaleplatehelmet_66
+    21300134: lpcfemaleplatehelmet_67
+    21300136: lpcfemaleplatehelmet_68
+    21300138: lpcfemaleplatehelmet_69
+    21300140: lpcfemaleplatehelmet_70
+    21300142: lpcfemaleplatehelmet_71
+    21300144: lpcfemaleplatehelmet_72
+    21300146: lpcfemaleplatehelmet_73
+    21300148: lpcfemaleplatehelmet_74
+    21300150: lpcfemaleplatehelmet_75
+    21300152: lpcfemaleplatehelmet_76
+    21300154: lpcfemaleplatehelmet_77
+    21300156: lpcfemaleplatehelmet_78
+    21300158: lpcfemaleplatehelmet_79
+    21300160: lpcfemaleplatehelmet_80
+    21300162: lpcfemaleplatehelmet_81
+    21300164: lpcfemaleplatehelmet_82
+    21300166: lpcfemaleplatehelmet_83
+    21300168: lpcfemaleplatehelmet_84
+    21300170: lpcfemaleplatehelmet_85
+    21300172: lpcfemaleplatehelmet_86
+    21300174: lpcfemaleplatehelmet_87
+    21300176: lpcfemaleplatehelmet_88
+    21300178: lpcfemaleplatehelmet_89
+    21300180: lpcfemaleplatehelmet_90
+    21300182: lpcfemaleplatehelmet_91
+    21300184: lpcfemaleplatehelmet_92
+    21300186: lpcfemaleplatehelmet_93
+    21300188: lpcfemaleplatehelmet_94
+    21300190: lpcfemaleplatehelmet_95
+    21300192: lpcfemaleplatehelmet_96
+    21300194: lpcfemaleplatehelmet_97
+    21300196: lpcfemaleplatehelmet_98
+    21300198: lpcfemaleplatehelmet_99
+    21300200: lpcfemaleplatehelmet_100
+    21300202: lpcfemaleplatehelmet_101
+    21300204: lpcfemaleplatehelmet_102
+    21300206: lpcfemaleplatehelmet_103
+    21300208: lpcfemaleplatehelmet_104
+    21300210: lpcfemaleplatehelmet_105
+    21300212: lpcfemaleplatehelmet_106
+    21300214: lpcfemaleplatehelmet_107
+    21300216: lpcfemaleplatehelmet_108
+    21300218: lpcfemaleplatehelmet_109
+    21300220: lpcfemaleplatehelmet_110
+    21300222: lpcfemaleplatehelmet_111
+    21300224: lpcfemaleplatehelmet_112
+    21300226: lpcfemaleplatehelmet_113
+    21300228: lpcfemaleplatehelmet_114
+    21300230: lpcfemaleplatehelmet_115
+    21300232: lpcfemaleplatehelmet_116
+    21300234: lpcfemaleplatehelmet_117
+    21300236: lpcfemaleplatehelmet_118
+    21300238: lpcfemaleplatehelmet_119
+    21300240: lpcfemaleplatehelmet_120
+    21300242: lpcfemaleplatehelmet_121
+    21300244: lpcfemaleplatehelmet_122
+    21300246: lpcfemaleplatehelmet_123
+    21300248: lpcfemaleplatehelmet_124
+    21300250: lpcfemaleplatehelmet_125
+    21300252: lpcfemaleplatehelmet_126
+    21300254: lpcfemaleplatehelmet_127
+    21300256: lpcfemaleplatehelmet_128
+    21300258: lpcfemaleplatehelmet_129
+    21300260: lpcfemaleplatehelmet_130
+    21300262: lpcfemaleplatehelmet_131
+    21300264: lpcfemaleplatehelmet_132
+    21300266: lpcfemaleplatehelmet_133
+    21300268: lpcfemaleplatehelmet_134
+    21300270: lpcfemaleplatehelmet_135
+    21300272: lpcfemaleplatehelmet_136
+    21300274: lpcfemaleplatehelmet_137
+    21300276: lpcfemaleplatehelmet_138
+    21300278: lpcfemaleplatehelmet_139
+    21300280: lpcfemaleplatehelmet_140
+    21300282: lpcfemaleplatehelmet_141
+    21300284: lpcfemaleplatehelmet_142
+    21300286: lpcfemaleplatehelmet_143
+    21300288: lpcfemaleplatehelmet_144
+    21300290: lpcfemaleplatehelmet_145
+    21300292: lpcfemaleplatehelmet_146
+    21300294: lpcfemaleplatehelmet_147
+    21300296: lpcfemaleplatehelmet_148
+    21300298: lpcfemaleplatehelmet_149
+    21300300: lpcfemaleplatehelmet_150
+    21300302: lpcfemaleplatehelmet_151
+    21300304: lpcfemaleplatehelmet_152
+    21300306: lpcfemaleplatehelmet_153
+    21300308: lpcfemaleplatehelmet_154
+    21300310: lpcfemaleplatehelmet_155
+    21300312: lpcfemaleplatehelmet_156
+    21300314: lpcfemaleplatehelmet_157
+    21300316: lpcfemaleplatehelmet_158
+    21300318: lpcfemaleplatehelmet_159
+    21300320: lpcfemaleplatehelmet_160
+    21300322: lpcfemaleplatehelmet_161
+    21300324: lpcfemaleplatehelmet_162
+    21300326: lpcfemaleplatehelmet_163
+    21300328: lpcfemaleplatehelmet_164
+    21300330: lpcfemaleplatehelmet_165
+    21300332: lpcfemaleplatehelmet_166
+    21300334: lpcfemaleplatehelmet_167
+    21300336: lpcfemaleplatehelmet_168
+    21300338: lpcfemaleplatehelmet_169
+    21300340: lpcfemaleplatehelmet_170
+    21300342: lpcfemaleplatehelmet_171
+    21300344: lpcfemaleplatehelmet_172
+    21300346: lpcfemaleplatehelmet_173
+    21300348: lpcfemaleplatehelmet_174
+    21300350: lpcfemaleplatehelmet_175
+    21300352: lpcfemaleplatehelmet_176
+    21300354: lpcfemaleplatehelmet_177
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1306
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fccac33b144d74b98bbfbe57877af8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1306
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b1d17e40c417e4685d8bad8fdcf750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1306
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c8e4900c92e424d868fb07d53c3fa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1306
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26015b78fd37a194db7e018e5d3178b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1306
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b735792faaa583a45912364550550add
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1306
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1b74afc9228ec4db85117fdbd1f792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1306
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0412b881866db943a0c8f63f86dfeac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1244
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3b97a37fd6f3e46b14936164f4007c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1244
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c50b737fa3eaa84cb9b75c34b01b57e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1244
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8f9e0080e71804592cf5495cd2e27b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1244
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a6144d77b81f14e9aeea3fcfbb4459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1244
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8ae49cfc2f6ec4bb234a26a47599fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1244
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f674ad05e96e843afdbf896358dd80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1244
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edb7bcf6bee6714f919ecfd7c62e9d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1179
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ab6c628e1a7b149b4a7718021fede9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1179
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f493709fd8e5707418b2b471bcbe9249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1179
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a7423cad70d7748981aad362b7728e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1179
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c5bdccf5ad46b4a9543cfce0536550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1179
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1141b2b80dbc6a94dbf27e29f4aab0cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1179
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f18ffc741dac5d4b868af1a156be930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1179
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a539255e925854fa523c0f53722266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1116
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0f2c7071ab6044f9d9973f20ee93d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1116
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bc0cad536f3b64d8526b748b2303cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1116
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05f0b7c2082cf147bd10e8b1b1759af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_24
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1116
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c84d1ada687b5849a8513a05daf7697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_25
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1116
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf5dc6f161aecf47acce49b85ac4246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1116
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7797484553dee4cba8aeab5d5caa97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_27
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1116
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a96956bd16558f489aea87befc9b0fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1050
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39f8a50f1dccac4a866f6440c922dcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1049
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28381f2e0e5b17c438768a1ec6c55679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1050
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ad5ed1d99d0ab46a2645221da625ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1050
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c7c3563c34fca4786d06ea36607308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1049
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e93e8382429394c9623dc199849d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1049
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b471de1556db7f4f92a8e4a10e52a2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1049
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10ff655d28e0bd4983d0f3ee38091b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1050
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0955aca2c1fdf3e43837f5e31817f001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 988
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db9bd44332ebaf43b1822244ea5db21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 988
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88e5050d28bf464d9a63c672f90ce66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_38
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 988
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a58a22cc429b3429b0928f9a2812cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 988
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692a66eee07ad1049b9118c0cbc2247b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_40
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 988
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0af613c3f63624c86d4f64c4b9e13c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_41
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 988
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbb12ccbada52c42905646809074aa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_42
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 988
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b425238f4351744a7063357d70f398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 988
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b49fe0076042749b40357f71df9a41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_44
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 923
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251234f982d63bb4fab19176f0bb10b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_45
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 923
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5957cf67a60f2f442a42c30ca7e143eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_46
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 923
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca64b236f6e3ce84aa6d55e187f68186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 923
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9744dcc8dd3744283493121cd4e026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 922
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76d544ef84d242459106e052598537a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 922
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4942511e46646c4dadfa443e5155877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 922
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8195116c56aa5ee46bfdeff64c06a1d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_51
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 923
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7e435834a1a5746b89d35f2b656e64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 860
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3c5b7b1b467e41acd30bf96925d26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 860
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d63f1293a70c1b4a80350891e9f7c5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_54
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 860
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190f561c5d51a3b46b60d0b168da88b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_55
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 860
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcfae3b912e49f409f7ae054562182a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_56
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 860
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fff0f27a8f7b04797f6e043e080dc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_57
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 860
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae5b103d3370074d98d8ca10c5c417a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_58
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 860
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc09001abb218a4babf46c2b75a0e58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_59
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 860
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8add707c42fd18042bccd93920cda01a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_60
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 794
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253f9f3ab8c621249abd1635db82a675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 794
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e2a97d20116b14299788f5880b4532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_62
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 794
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1150e9ad65c83b94597759b5eb1578f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_63
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 793
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbda4e180abb2e439f27104d7070570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_64
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 794
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aa06cb32d277d409061f5538102360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 794
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55dec653f63f6b4d8f065cc66e2853a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_66
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 794
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d02dcbf0273ab546b8f494902030403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_67
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 793
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15998eb82b674bf47b2ef5555c70f24d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_68
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 794
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1771303bb1901244a4b78ded19bb851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 732
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddec3d7d07950064abb60f14223443ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 731
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349c4d546284d2643945172ff96e6394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 731
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6438ab00e8573424292354ea804b43e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 732
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee2a44f1a6267a43a0cf91db60fcac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 732
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88d024a4772ab34e85059c1b84033f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_74
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 731
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d720a9e92c461c0489ccc057e88dbe09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 731
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca377f8e11a57f046a91806b4606e836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_76
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 732
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7383ffa74ed3fae43b4db6ce7b201087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_77
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 732
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2384ca5923a9344a84e9e7565d27ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_78
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 667
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1407557ea5b9e142b3ae224a76bca22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_79
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 667
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1269c26c826444d9194452f7c137e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_80
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 667
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334f1c8d201ba6940a9e8a4d1a0cf697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_81
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 666
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5a36a7618f3e94bab4d267fc96c76f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_82
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 667
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e1092fe6f3fb24a9c1c3002a57f506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_83
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 667
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa840c77db766743a51d4c1baeb15dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_84
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 667
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5478e0f2fb9fe5a4781992db2213f18e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_85
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 666
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c22116116e262d419acb2bb3e9db193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_86
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 667
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49515a0cc554cff45b52313172d815f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_87
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 604
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5a72c65e6f74d4a88474ed39aefcb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_88
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 603
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a7e3591dde2674992e1328ff2f2a46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 603
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60914ae2895256d4199531660ea6e9b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_90
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 604
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc85d37da72f48241b19eb7d15b68e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_91
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 604
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ade8747c8ce8be4d89784e9c00886b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_92
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 603
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047abf5243f45014ea3089800d30544d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_93
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 604
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d28358fa6b1aa4392a55d10f0ec761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_94
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 604
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934e5860037471f478678a0a8cff572c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_95
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 604
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547d17bca88a36f4cb296137b0fe34af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_96
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 539
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff2cd8c7ebf1a14989b156daea63843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_97
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 538
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dc02bd5238dff4e9abecce3411397e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_98
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 538
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353152bd3889148498cc58a47cc69526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_99
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 539
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6befbbf7483d9c64299a0c517c36c9d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_100
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 539
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c687c8c70c84c64f9e80381f8a13d10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_101
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 539
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd3f1c41029bb947a007ba8a6efeb15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 476
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7a698d902096c428eb33c214560927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_103
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 474
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5788f9690b688d3499b75f6a1bb2d9d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_104
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 475
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ae988f71f63fb45bae4e94e8bb359d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_105
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 476
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b3e925a76825f42b052d0d962fbc9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_106
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 476
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4ea70e21c2b674782988fabeb8e000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_107
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 476
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7868ecee1b3f95647b30034810190e5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_108
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 412
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21b8f6a09f9f374b956d49eef1fdbfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_109
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 410
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898e70a9f2fb81049a5ec863b277994d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_110
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 410
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d1760188d4d074a97f4b14b8d32eed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_111
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 411
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a8dd1633b1b844690107ab55ea8724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_112
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 411
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98e37525b26e3b4ca90c663947ef305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_113
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 411
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3718f66ff116eb4893825d9f857620b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_114
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 348
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df74f80a8f011846850702777e20185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 346
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04da3989107d8d847a50d0f743ebcf44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_116
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 347
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e1fbd1892194d43921023c85d1133b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_117
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 348
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6c219b2abe2344badd6372223d78c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_118
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 348
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8234456d6f0380b408d02ec48988ea3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_119
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 348
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23081687ce00bc42a189328d3d414b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_120
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 282
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b30a0feffadafe40940e5e7f630158c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_121
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 282
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa88da04078bf5d47a187b7d9d132098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 282
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bcb8d4b17b83c45b745d9e3ba75274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 282
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c55027624bbb8b419e335e32e443204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_124
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 282
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f945cc2b67d3ced4db8ea7e0ce48a83a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 282
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627622111f60b164ba2c8af9dc5b11bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_126
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 282
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b4c3d118ed5f947a414962cbc5643a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 282
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160f61fbd1ccd4743bff3dbabcdf75cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_128
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 282
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eed7b11359e9dd459e0aa69c86e3939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_129
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 282
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f663e0c29ed0d642b03efc1b47e9e35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 282
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8edf80f3f64c8488d9e4193e03d38b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_131
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 282
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb4edc3b10c36d44854d4d1f47ddbe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_132
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 282
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fd800ffce73b14f964992cdec671f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7437268134c146409d34b8c061f7b4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_134
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d7a2212a877ef4f9a6368e574064ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_135
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e716eef4d20c944b07007bffb471b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_136
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 218
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7960e3c032a1f4b4b8e9c271eaf8c988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_137
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b155a955abc399341a7b7c8a2d1e4b24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_138
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e9b7b791c857440ac48ffef6baa1db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_139
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2ce38133a781d47abe8b8e0348a291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_140
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9cb51e387aefa46a984fb5661ea60e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_141
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98929788393e8ce438d05bc3cf7c4301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_142
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204d2af0711e78847b0ec72ae04d8f07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_143
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aca83173bf66e4699a9f76bf85266b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_144
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceff4f145f033b43b1ab05b688e92bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_145
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5ebdf6ce3b72a42bbd9be9de77448c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_146
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 155
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a970aa454c204f408371f10f7fee21b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_147
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 155
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dce9e62e84bb44fa35e7300a74f808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_148
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 155
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd46b6d82303b44da104f1e6d346d7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_149
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 155
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7ae2aa4b565bc4c95dbbea730df4d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_150
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 155
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf4980191285094583ec8a66697a913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_151
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 155
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd64c17c9d20b76449aa8a918b09ff0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_152
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 155
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577197fa07cdab644a2e64bd8393c234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_153
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 155
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6180911f638df094c9a76d41aea0cb3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_154
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 155
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee021b7a81b3f0489388e2ca8908c92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_155
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 155
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f4c30cce7557f4dbf2843fd8b31df7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_156
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 155
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3261b516eb000cd4494f6d99a61e6911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_157
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 155
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7164045cd75344c86d983aad82a46a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_158
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 155
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d52e0d836fa0e4a8222fb64f58e2b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_159
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 92
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f588e05bff64e4789cc4fb45e6a400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_160
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 92
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def78f2109c8f514e90bc7a97e7832fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_161
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 92
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ac2ff31bf78b345b179f0837b7e529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_162
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 90
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c81746e511308e45950dbbca80785ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_163
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 92
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9005e1e24af7fa4197ab5828085ad27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_164
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 92
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d9ca4caa0064e4d92aca46fb90b4f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_165
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 92
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f87318da4eb5d4ba826505a21660f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_166
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 92
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb7cd11aa012434486af5e5476ae647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_167
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 92
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520d2f5de2a71364289ecf123990854b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_168
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 92
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b21085f477c064880b5d3dd5ded271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_169
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 92
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4bbf4bca7aae64a998a03fe015c1d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_170
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 92
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378ec3a54b4d8f446b1e5a9fe421ec2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_171
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 92
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e90fbb06c7d774abf3192744824ac2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_172
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 27
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff48579f7bc702429c9e06e6b326129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_173
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 26
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe97168b88dc14ba23c505767c9040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_174
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 18
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262d7e53920fdf546b339fc2a81eb987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_175
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 15
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd755a0f0c7c14a43b4e9da4f4e1b276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_176
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 10
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53048e08d80cc5b49baa7a14cf765c95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpcfemaleplatehelmet_177
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5829f889051a447938136b9a9c32f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c77e616eb50578b4aa6435ed9a2a4908
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
