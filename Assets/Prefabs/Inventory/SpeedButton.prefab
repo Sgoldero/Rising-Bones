@@ -93,6 +93,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77e1d876f863cbb47a9bf780b687bd77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player: {fileID: 1822561861999558, guid: 826d4d1c05a7d4b4bb35b7ea63c40804, type: 2}
   effect: {fileID: 1651609272537980, guid: 1e00f64db3d6908448167beed66447be, type: 2}
   SpeedNumber: 20
 --- !u!114 &114675313705648068

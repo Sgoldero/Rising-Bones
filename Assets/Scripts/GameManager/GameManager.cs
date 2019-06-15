@@ -22,7 +22,9 @@ public class GameManager : MonoBehaviour {
     public UnityEvent UpdatePlayerInputEvent;
     public UnityEvent UpdatePlayerSpawnPointEvent;
     public static bool gameIsPaused = false;
-    
+    private bool superFast = false;
+    private float isTime = 0;
+    private float normalSpeed=0;
 
     private class GameState
     {
@@ -78,6 +80,16 @@ public class GameManager : MonoBehaviour {
             {
                 Pause();
             }  
+        }
+
+        if (superFast)
+        {
+            isTime += Time.deltaTime;
+            if (isTime >= 10)
+            {
+                UpdatePlayerSpeed(normalSpeed);
+                superFast = false;
+            }
         }
     }
 
@@ -175,6 +187,7 @@ public class GameManager : MonoBehaviour {
     {
         gameState.speedPlayer = newSpeed;
         UpdatePlayerSpeedEvent.Invoke();
+        
     }
 
     public void UpdatePlayerInput(bool newInputState)
@@ -199,4 +212,11 @@ public class GameManager : MonoBehaviour {
         return gameState.spawnPoint;
     }
 
+    public void SpeedUp(float newSpeed)
+    {
+        normalSpeed = GetPlayerSpeed();
+        superFast = true;
+        gameState.speedPlayer = newSpeed;
+        UpdatePlayerSpeedEvent.Invoke();
+    }
 }
