@@ -3248,7 +3248,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4015451506977670, guid: f1c36c70d3789e54aa55382fd5633602, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -10.56
+      value: -15.56
       objectReference: {fileID: 0}
     - target: {fileID: 4015451506977670, guid: f1c36c70d3789e54aa55382fd5633602, type: 2}
       propertyPath: m_LocalPosition.z
@@ -10461,6 +10461,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sldr: {fileID: 1793257026}
   txt: {fileID: 2120465373}
+  score: {fileID: 0}
+  pts: 0
 --- !u!114 &1545141222
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10782,7 +10784,7 @@ MonoBehaviour:
     m_HighlightedTrigger: Highlighted
     m_PressedTrigger: Pressed
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 0}
   m_FillRect: {fileID: 268363867}
   m_HandleRect: {fileID: 0}

@@ -185,4 +185,9 @@ public class PlayerController : MonoBehaviour
     {
         FindObjectOfType<AudioManager>().Play("GeneralWalking");
     }
+
+    public void SpeedUp()
+    {
+
+    }
 }//End class

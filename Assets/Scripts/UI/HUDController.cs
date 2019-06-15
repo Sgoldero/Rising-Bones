@@ -26,6 +26,7 @@ public class HUDController : MonoBehaviour {
 
     public void UpdateSlider()
     {
+        print("Actualizando barra");
         sldr.value = GameManager.instance.GetHealth() / GameManager.instance.pModel.health;
         pts = GameManager.instance.GetPlayerPoints();
         if (sldr.value > 0) {
